@@ -19,3 +19,5 @@ kpt live init foo
 kpt live apply foo --reconcile-timeout=2m --output=table
 ```
 Details: https://kpt.dev/reference/cli/live/
+
+This is an update
